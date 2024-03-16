@@ -1,0 +1,5 @@
+Once you have Windows up and running, download & install Sysmon using Olaf's configuration.
+
+Instructions: https://www.youtube.com/watch?v=YxpUx0czgx4 @ 08:35
+Sysmon: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+Sysmon Config: https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml
